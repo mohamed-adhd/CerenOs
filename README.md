@@ -5,3 +5,4 @@ a simple operating system attempt . this is a long term project , slow and not c
 
 bytecarve
 c compiler
+sql_mhd
